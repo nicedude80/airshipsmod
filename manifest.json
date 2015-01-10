@@ -1,0 +1,12 @@
+ {
+     "info" : {
+         "name" : "airships_mod",
+         "version" : 1
+  },
+  "aliases" : {
+         "balloon_1" : "file(entities/decoration/balloon_1)"
+  },
+  "mixintos" : {
+          "/stonehearth/jobs/weaver/recipes/recipes.json" : [ "/airships_mod/jobs/weaver/recipes/recipes.json" ]
+   }
+}

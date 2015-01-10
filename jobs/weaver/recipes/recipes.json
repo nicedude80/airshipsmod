@@ -1,0 +1,11 @@
+{
+  "craftable_recipes" : {
+    "decorations" : {
+	"recipes" : {
+         "balloon_1" : {
+                 "recipe"   :  "file(balloon_1_recipe.json)"
+               		}
+		}
+          }
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "type" : "entity",
+   "mixins" : "file(balloon_1_ghost.json)",
+
+   "components": {
+      "stonehearth:entity_forms" : {
+         "iconic_form" : "file(balloon_1_iconic.json)",
+         "ghost_form" : "file(balloon_1_ghost.json)",
+         "placeable_on_ground" : true
+      }
+   }
+}
