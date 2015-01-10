@@ -4,21 +4,21 @@
    "recipe_name" : "Balloon 1",
    "description" : "Looks nice!",
    "flavor"      : "Batteries not included.",
-   "portrait"    : "/airships_mod/entities/decoration/balloon_1/balloon_1.png",
+   "portrait"    : "/airshipsmod/entities/decoration/balloon_1/balloon_1.png",
 
    "ingredients": [
   {
      "material" : "wood resource",
-     "count" : 5
+     "count" : 1
   },
   {
      "material" : "cloth resource",
-     "count" : 5
+     "count" : 1
   }
   ],
   "produces": [
       {
-         "item":"airships_mod:balloon_1"
+         "item":"airshipsmod:balloon_1"
       }
   ]
 }
