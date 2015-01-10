@@ -7,6 +7,6 @@
          "balloon_1" : "file(entities/decoration/balloon_1)"
   },
   "mixintos" : {
-          "/stonehearth/jobs/weaver/recipes/recipes.json" : [ "/airships_mod/jobs/weaver/recipes/recipes.json" ]
+          "/stonehearth/jobs/weaver/recipes/recipes.json" : "/airships_mod/jobs/weaver/recipes/recipes.json"
    }
 }
